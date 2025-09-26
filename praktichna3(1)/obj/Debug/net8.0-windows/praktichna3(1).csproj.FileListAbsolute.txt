@@ -1,0 +1,16 @@
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\bin\Debug\net8.0-windows\praktichna3(1).exe
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\bin\Debug\net8.0-windows\praktichna3(1).deps.json
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\bin\Debug\net8.0-windows\praktichna3(1).runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\bin\Debug\net8.0-windows\praktichna3(1).dll
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\bin\Debug\net8.0-windows\praktichna3(1).pdb
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3_1_.Form1.resources
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).dll
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\refint\praktichna3(1).dll
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).pdb
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\praktichna3(1).genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichna3(1)\obj\Debug\net8.0-windows\ref\praktichna3(1).dll
